@@ -33,6 +33,7 @@
 ###
 
 <img src="https://raw.githubusercontent.com/ilhamboyfurtune/ilhamboyfurtune/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/ilhamboyfurtune/ilhamboyfurtune/output/pacman.svg" alt="Pacman animation" />
 
 ###
 
