@@ -35,7 +35,9 @@ ___
 
 ###
 
-<img src="https://raw.githubusercontent.com/ilhamboyfurtune/ilhamboyfurtune/output/snake.svg" alt="Snake animation" />
+<img data-importer="snake" src="https://raw.githubusercontent.com/ilhamboyfurtune/ilhamboyfurtune/snake-output/snake.svg" alt="Snake animation" />
+
+###
 
 ###
 
